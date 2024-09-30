@@ -1,5 +1,5 @@
 #1
-print(" Hello Enter your  name: ")
+print(" the animal i picked:  flamingo: ")
 
 #2
 print(" Hello Enter your adress: ")
